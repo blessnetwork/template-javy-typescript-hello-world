@@ -1,3 +1,5 @@
 .temp/
 dist/
 node_modules/
+*-lock.json
+build/
